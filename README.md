@@ -71,12 +71,12 @@ BSc Computing Student at De Montfort University
 
 ### Main Menu
 
-![Main Menu](screenshots/menu.png)
+![Main Menu](Screenshots/menu.png)
 
 ### Student List
 
-![Student List](screenshots/students.png)
+![Student List](Screenshots/students.png)
 
 ### Search Student
 
-![Search Student](screenshots/search.png)
+![Search Student](Screenshots/search.png)
