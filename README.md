@@ -66,3 +66,17 @@ python main.py
 
 Valdini Fred
 BSc Computing Student at De Montfort University
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/menu.png)
+
+### Student List
+
+![Student List](screenshots/students.png)
+
+### Search Student
+
+![Search Student](screenshots/search.png)
