@@ -75,8 +75,8 @@ BSc Computing Student at De Montfort University
 
 ### Student List
 
-![Student List](Screenshots/students.png)
+![Student List](Screenshots/Students.png)
 
 ### Search Student
 
-![Search Student](Screenshots/search.png)
+![Search Student](Screenshots/Search.png)
